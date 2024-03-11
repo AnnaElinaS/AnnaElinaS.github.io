@@ -11,7 +11,7 @@ div {
 
 /* otsikon ja linkkinapin taustakuva */
 .coverkuva {  
-    background-image: url("C:/Users/annas/OneDrive/Tiedostot/Digi palvelut/JDP Koodaus/Oma sivusto/PalmuHeaderJPG-V2.jpg");
+    background-image: url("PalmuHeaderJPG-V2.jpg");
     width: 100%;
     max-width: 1000px;
     height: 350px;
