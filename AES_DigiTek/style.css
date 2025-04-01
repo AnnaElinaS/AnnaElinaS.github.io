@@ -1,0 +1,20 @@
+/* SIVUSTON TYYLI */
+
+/* NAVIGAATIO */
+
+/* taustan väri */ 
+.navbar-custom {
+    background-color:rgb(216, 192, 240);	}
+    /* ekstin väri */
+.navbar-custom .navbar-text{
+    color:#080707;
+    }
+    /* linkin väri */
+.navbar-custom .navbar-nav .nav-link {
+    color:#a09e9e;;
+    } /* aktiivisen & hover-linkin väri */  
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #9f9e9e;
+    }
+    
